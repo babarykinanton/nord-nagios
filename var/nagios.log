@@ -1,0 +1,646 @@
+[1542326400] LOG ROTATION: DAILY
+[1542326400] LOG VERSION: 2.0
+[1542326400] CURRENT HOST STATE: 5sovet-tel1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 4.34 ms
+[1542326400] CURRENT HOST STATE: 8line-k1;DOWN;HARD;3;CRITICAL - Host Unreachable (192.168.58.21)
+[1542326400] CURRENT HOST STATE: 8line-k2;DOWN;HARD;3;CRITICAL - Host Unreachable (192.168.58.22)
+[1542326400] CURRENT HOST STATE: aviakonstr-k1;DOWN;HARD;3;CRITICAL - Host Unreachable (192.168.24.21)
+[1542326400] CURRENT HOST STATE: aviakonstr-k2;DOWN;HARD;3;CRITICAL - Host Unreachable (192.168.24.22)
+[1542326400] CURRENT HOST STATE: bkuna-k1;DOWN;HARD;3;CRITICAL - Host Unreachable (192.168.31.21)
+[1542326400] CURRENT HOST STATE: blago-k1;DOWN;HARD;3;CRITICAL - Host Unreachable (192.168.71.21)
+[1542326400] CURRENT HOST STATE: bryanc20-k1;DOWN;HARD;3;CRITICAL - Host Unreachable (192.168.68.21)
+[1542326400] CURRENT HOST STATE: dach-k1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.76 ms
+[1542326400] CURRENT HOST STATE: dek-k1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.47 ms
+[1542326400] CURRENT HOST STATE: dek-k2;DOWN;HARD;3;CRITICAL - Host Unreachable (192.168.56.22)
+[1542326400] CURRENT HOST STATE: eliz-k1;DOWN;HARD;3;CRITICAL - Host Unreachable (192.168.11.21)
+[1542326400] CURRENT HOST STATE: eliz-k2;DOWN;HARD;3;CRITICAL - Host Unreachable (192.168.11.22)
+[1542326400] CURRENT HOST STATE: engels-k1;DOWN;HARD;3;CRITICAL - Host Unreachable (192.168.40.21)
+[1542326400] CURRENT HOST STATE: engels51-k1;DOWN;HARD;3;CRITICAL - Host Unreachable (192.168.63.21)
+[1542326400] CURRENT HOST STATE: garkav-k1;DOWN;HARD;3;CRITICAL - Host Unreachable (192.168.45.21)
+[1542326400] CURRENT HOST STATE: gasheka-k1;DOWN;HARD;3;CRITICAL - Host Unreachable (192.168.35.21)
+[1542326400] CURRENT HOST STATE: gavan-k1;DOWN;HARD;3;CRITICAL - Host Unreachable (192.168.48.21)
+[1542326400] CURRENT HOST STATE: grivcov-k1;DOWN;HARD;3;CRITICAL - Host Unreachable (192.168.27.21)
+[1542326400] CURRENT HOST STATE: hoshimin-k1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 35.64 ms
+[1542326400] CURRENT HOST STATE: hoshimin-k2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 7.36 ms
+[1542326400] CURRENT HOST STATE: kamen-k1;DOWN;HARD;3;CRITICAL - Host Unreachable (192.168.44.21)
+[1542326400] CURRENT HOST STATE: kamen-k2;DOWN;HARD;3;CRITICAL - Host Unreachable (192.168.44.22)
+[1542326400] CURRENT HOST STATE: kamen-k3;DOWN;HARD;3;CRITICAL - Host Unreachable (192.168.44.23)
+[1542326400] CURRENT HOST STATE: kirochn-k1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 64.57 ms
+[1542326400] CURRENT HOST STATE: kirochn-k2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 53.42 ms
+[1542326400] CURRENT HOST STATE: kronsh-k1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 3.23 ms
+[1542326400] CURRENT HOST STATE: lens22-k1;DOWN;HARD;3;CRITICAL - Host Unreachable (192.168.61.21)
+[1542326400] CURRENT HOST STATE: lensovet-k1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 3.99 ms
+[1542326400] CURRENT HOST STATE: lunach-k1;DOWN;HARD;3;CRITICAL - Host Unreachable (192.168.41.21)
+[1542326400] CURRENT HOST STATE: metal-k1;DOWN;HARD;3;CRITICAL - Host Unreachable (192.168.69.21)
+[1542326400] CURRENT HOST STATE: mikro04;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 48.58 ms
+[1542326400] CURRENT HOST STATE: mikro11;DOWN;HARD;3;CRITICAL - Host Unreachable (192.168.11.200)
+[1542326400] CURRENT HOST STATE: mikro203;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.31 ms
+[1542326400] CURRENT HOST STATE: mikro24;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 4.49 ms
+[1542326400] CURRENT HOST STATE: mikro25;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 4.70 ms
+[1542326400] CURRENT HOST STATE: mikro26;DOWN;HARD;3;(Host check timed out after 30.01 seconds)
+[1542326400] CURRENT HOST STATE: mikro27;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 3.86 ms
+[1542326400] CURRENT HOST STATE: mikro28;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.45 ms
+[1542326400] CURRENT HOST STATE: mikro31;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.77 ms
+[1542326400] CURRENT HOST STATE: mikro32;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 8.82 ms
+[1542326400] CURRENT HOST STATE: mikro34;DOWN;HARD;3;(Host check timed out after 30.01 seconds)
+[1542326400] CURRENT HOST STATE: mikro35;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.52 ms
+[1542326400] CURRENT HOST STATE: mikro36;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 4.16 ms
+[1542326400] CURRENT HOST STATE: mikro37;UP;HARD;1;PING OK - Packet loss = 20%, RTA = 5.12 ms
+[1542326400] CURRENT HOST STATE: mikro39;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.96 ms
+[1542326400] CURRENT HOST STATE: mikro40;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 4.56 ms
+[1542326400] CURRENT HOST STATE: mikro41;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 7.31 ms
+[1542326400] CURRENT HOST STATE: mikro42;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.99 ms
+[1542326400] CURRENT HOST STATE: mikro43;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.05 ms
+[1542326400] CURRENT HOST STATE: mikro44;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.80 ms
+[1542326400] CURRENT HOST STATE: mikro45;DOWN;HARD;3;CRITICAL - Host Unreachable (192.168.45.200)
+[1542326400] CURRENT HOST STATE: mikro46;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.81 ms
+[1542326400] CURRENT HOST STATE: mikro47;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.46 ms
+[1542326400] CURRENT HOST STATE: mikro48;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.77 ms
+[1542326400] CURRENT HOST STATE: mikro49;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.12 ms
+[1542326400] CURRENT HOST STATE: mikro52;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.51 ms
+[1542326400] CURRENT HOST STATE: mikro53;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.16 ms
+[1542326400] CURRENT HOST STATE: mikro54;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 8.30 ms
+[1542326400] CURRENT HOST STATE: mikro55;DOWN;HARD;3;(Host check timed out after 30.01 seconds)
+[1542326400] CURRENT HOST STATE: mikro56;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.10 ms
+[1542326400] CURRENT HOST STATE: mikro57;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 3.71 ms
+[1542326400] CURRENT HOST STATE: mikro58;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.97 ms
+[1542326400] CURRENT HOST STATE: mikro59;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.09 ms
+[1542326400] CURRENT HOST STATE: mikro60;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.34 ms
+[1542326400] CURRENT HOST STATE: mikro61;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.61 ms
+[1542326400] CURRENT HOST STATE: mikro63;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 4.97 ms
+[1542326400] CURRENT HOST STATE: mikro67;DOWN;HARD;3;CRITICAL - Host Unreachable (192.168.67.200)
+[1542326400] CURRENT HOST STATE: mikro68;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.41 ms
+[1542326400] CURRENT HOST STATE: mikro69;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 4.08 ms
+[1542326400] CURRENT HOST STATE: mikro70;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.47 ms
+[1542326400] CURRENT HOST STATE: mikro71;DOWN;HARD;3;CRITICAL - Host Unreachable (192.168.71.200)
+[1542326400] CURRENT HOST STATE: mikro72;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 3.95 ms
+[1542326400] CURRENT HOST STATE: msk197-k1;DOWN;HARD;3;CRITICAL - Host Unreachable (192.168.46.21)
+[1542326400] CURRENT HOST STATE: msk197-k2;DOWN;HARD;3;CRITICAL - Host Unreachable (192.168.46.22)
+[1542326400] CURRENT HOST STATE: nev-k1;DOWN;HARD;3;(Host check timed out after 31.01 seconds)
+[1542326400] CURRENT HOST STATE: nev-k10;DOWN;HARD;3;CRITICAL - Host Unreachable (172.17.15.32)
+[1542326400] CURRENT HOST STATE: nev-k11;DOWN;HARD;3;(Host check timed out after 30.01 seconds)
+[1542326400] CURRENT HOST STATE: nev-k2;DOWN;HARD;3;(Host check timed out after 30.00 seconds)
+[1542326400] CURRENT HOST STATE: nev-k3;DOWN;HARD;3;(Host check timed out after 30.01 seconds)
+[1542326400] CURRENT HOST STATE: nev-k4;DOWN;HARD;3;(Host check timed out after 30.01 seconds)
+[1542326400] CURRENT HOST STATE: nev-k5;DOWN;HARD;3;CRITICAL - Host Unreachable (172.17.15.25)
+[1542326400] CURRENT HOST STATE: nev-k6;DOWN;HARD;3;(Host check timed out after 30.01 seconds)
+[1542326400] CURRENT HOST STATE: nev-k7;DOWN;HARD;3;(Host check timed out after 30.01 seconds)
+[1542326400] CURRENT HOST STATE: nev-k8;DOWN;HARD;3;CRITICAL - Host Unreachable (172.17.15.28)
+[1542326400] CURRENT HOST STATE: nev-k9;DOWN;HARD;3;(Host check timed out after 30.01 seconds)
+[1542326400] CURRENT HOST STATE: nev6-k1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 3.54 ms
+[1542326400] CURRENT HOST STATE: nev6-k2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.08 ms
+[1542326400] CURRENT HOST STATE: nevsk104-k1;DOWN;HARD;3;CRITICAL - Host Unreachable (192.168.37.21)
+[1542326400] CURRENT HOST STATE: nevsk104-k2;DOWN;HARD;3;CRITICAL - Host Unreachable (192.168.37.22)
+[1542326400] CURRENT HOST STATE: nevsk104-k3;DOWN;HARD;3;CRITICAL - Host Unreachable (192.168.37.23)
+[1542326400] CURRENT HOST STATE: nevsk104-k4;DOWN;HARD;3;CRITICAL - Host Unreachable (192.168.37.24)
+[1542326400] CURRENT HOST STATE: nevsky130-k1;DOWN;HARD;3;CRITICAL - Host Unreachable (192.168.49.21)
+[1542326400] CURRENT HOST STATE: nevsky130-k2;DOWN;HARD;3;CRITICAL - Host Unreachable (192.168.49.22)
+[1542326400] CURRENT HOST STATE: nevsky78-k1;DOWN;HARD;3;CRITICAL - Host Unreachable (192.168.28.21)
+[1542326400] CURRENT HOST STATE: nevsky78-k3;DOWN;HARD;3;CRITICAL - Host Unreachable (192.168.28.23)
+[1542326400] CURRENT HOST STATE: pion12-k1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.63 ms
+[1542326400] CURRENT HOST STATE: pion12-k2;DOWN;HARD;3;CRITICAL - Host Unreachable (192.168.53.22)
+[1542326400] CURRENT HOST STATE: prosv48-k1;DOWN;HARD;3;CRITICAL - Host Unreachable (192.168.67.21)
+[1542326400] CURRENT HOST STATE: prosv87-k1;DOWN;HARD;3;CRITICAL - Host Unreachable (192.168.47.21)
+[1542326400] CURRENT HOST STATE: prosv87-k2;DOWN;HARD;3;CRITICAL - Host Unreachable (192.168.47.22)
+[1542326400] CURRENT HOST STATE: sad103-k1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.20 ms
+[1542326400] CURRENT HOST STATE: sad103-k2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.30 ms
+[1542326400] CURRENT HOST STATE: sad103-k3;DOWN;HARD;3;CRITICAL - Host Unreachable (192.168.60.23)
+[1542326400] CURRENT HOST STATE: sad29-k1;DOWN;HARD;3;CRITICAL - Host Unreachable (192.168.43.21)
+[1542326400] CURRENT HOST STATE: sad29-k2;DOWN;HARD;3;CRITICAL - Host Unreachable (192.168.43.22)
+[1542326400] CURRENT HOST STATE: sadov-k1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.47 ms
+[1542326400] CURRENT HOST STATE: sadov-k2;DOWN;HARD;3;(Host check timed out after 30.01 seconds)
+[1542326400] CURRENT HOST STATE: sadov-k3;DOWN;HARD;3;(Host check timed out after 30.01 seconds)
+[1542326400] CURRENT HOST STATE: sadov-k4;DOWN;HARD;3;CRITICAL - Host Unreachable (172.17.14.30)
+[1542326400] CURRENT HOST STATE: sadov-k5;DOWN;HARD;3;CRITICAL - Host Unreachable (172.17.14.27)
+[1542326400] CURRENT HOST STATE: stach88-k1;DOWN;HARD;3;CRITICAL - Host Unreachable (192.168.54.21)
+[1542326400] CURRENT HOST STATE: suvor42-k1;DOWN;HARD;3;CRITICAL - Host Unreachable (192.168.59.21)
+[1542326400] CURRENT HOST STATE: tur-k1;DOWN;HARD;3;CRITICAL - Host Unreachable (192.168.57.21)
+[1542326400] CURRENT HOST STATE: turist28-k1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 4.19 ms
+[1542326400] CURRENT HOST STATE: ushinsk-k1;DOWN;HARD;3;CRITICAL - Host Unreachable (192.168.25.21)
+[1542326400] CURRENT HOST STATE: varsh-k1;DOWN;HARD;3;CRITICAL - Host Unreachable (192.168.70.21)
+[1542326400] CURRENT HOST STATE: zahar-k1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 4.24 ms
+[1542326400] CURRENT SERVICE STATE: 5sovet-tel1;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 4.50 ms
+[1542326400] CURRENT SERVICE STATE: 8line-k1;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (192.168.58.21)
+[1542326400] CURRENT SERVICE STATE: 8line-k2;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (192.168.58.22)
+[1542326400] CURRENT SERVICE STATE: aviakonstr-k1;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (192.168.24.21)
+[1542326400] CURRENT SERVICE STATE: aviakonstr-k2;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (192.168.24.22)
+[1542326400] CURRENT SERVICE STATE: bkuna-k1;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (192.168.31.21)
+[1542326400] CURRENT SERVICE STATE: blago-k1;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (192.168.71.21)
+[1542326400] CURRENT SERVICE STATE: bryanc20-k1;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (192.168.68.21)
+[1542326400] CURRENT SERVICE STATE: dach-k1;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.70 ms
+[1542326400] CURRENT SERVICE STATE: dek-k1;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.37 ms
+[1542326400] CURRENT SERVICE STATE: dek-k2;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (192.168.56.22)
+[1542326400] CURRENT SERVICE STATE: eliz-k1;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (192.168.11.21)
+[1542326400] CURRENT SERVICE STATE: eliz-k2;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (192.168.11.22)
+[1542326400] CURRENT SERVICE STATE: engels-k1;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (192.168.40.21)
+[1542326400] CURRENT SERVICE STATE: engels51-k1;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (192.168.63.21)
+[1542326400] CURRENT SERVICE STATE: garkav-k1;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (192.168.45.21)
+[1542326400] CURRENT SERVICE STATE: gasheka-k1;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (192.168.35.21)
+[1542326400] CURRENT SERVICE STATE: gavan-k1;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (192.168.48.21)
+[1542326400] CURRENT SERVICE STATE: grivcov-k1;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (192.168.27.21)
+[1542326400] CURRENT SERVICE STATE: hoshimin-k1;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 20.09 ms
+[1542326400] CURRENT SERVICE STATE: hoshimin-k2;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 56.38 ms
+[1542326400] CURRENT SERVICE STATE: kamen-k1;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (192.168.44.21)
+[1542326400] CURRENT SERVICE STATE: kamen-k2;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (192.168.44.22)
+[1542326400] CURRENT SERVICE STATE: kamen-k3;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (192.168.44.23)
+[1542326400] CURRENT SERVICE STATE: kirochn-k1;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 67.39 ms
+[1542326400] CURRENT SERVICE STATE: kirochn-k2;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 54.56 ms
+[1542326400] CURRENT SERVICE STATE: kronsh-k1;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.97 ms
+[1542326400] CURRENT SERVICE STATE: lens22-k1;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (192.168.61.21)
+[1542326400] CURRENT SERVICE STATE: lensovet-k1;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 3.87 ms
+[1542326400] CURRENT SERVICE STATE: lunach-k1;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (192.168.41.21)
+[1542326400] CURRENT SERVICE STATE: metal-k1;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (192.168.69.21)
+[1542326400] CURRENT SERVICE STATE: mikro04;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 79.16 ms
+[1542326400] CURRENT SERVICE STATE: mikro11;Ping;CRITICAL;HARD;3;CRITICAL - Host Unreachable (192.168.11.200)
+[1542326400] CURRENT SERVICE STATE: mikro203;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.43 ms
+[1542326400] CURRENT SERVICE STATE: mikro24;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 4.38 ms
+[1542326400] CURRENT SERVICE STATE: mikro25;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 4.72 ms
+[1542326400] CURRENT SERVICE STATE: mikro27;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.20 ms
+[1542326400] CURRENT SERVICE STATE: mikro28;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.55 ms
+[1542326400] CURRENT SERVICE STATE: mikro31;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 21.28 ms
+[1542326400] CURRENT SERVICE STATE: mikro32;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 3.88 ms
+[1542326400] CURRENT SERVICE STATE: mikro35;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.64 ms
+[1542326400] CURRENT SERVICE STATE: mikro36;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 4.23 ms
+[1542326400] CURRENT SERVICE STATE: mikro37;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.90 ms
+[1542326400] CURRENT SERVICE STATE: mikro39;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 4.14 ms
+[1542326400] CURRENT SERVICE STATE: mikro40;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 3.80 ms
+[1542326400] CURRENT SERVICE STATE: mikro41;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 7.98 ms
+[1542326400] CURRENT SERVICE STATE: mikro42;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.97 ms
+[1542326400] CURRENT SERVICE STATE: mikro43;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.02 ms
+[1542326400] CURRENT SERVICE STATE: mikro44;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.61 ms
+[1542326400] CURRENT SERVICE STATE: mikro45;Ping;CRITICAL;HARD;3;CRITICAL - Host Unreachable (192.168.45.200)
+[1542326400] CURRENT SERVICE STATE: mikro46;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.84 ms
+[1542326400] CURRENT SERVICE STATE: mikro47;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.40 ms
+[1542326400] CURRENT SERVICE STATE: mikro48;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.34 ms
+[1542326400] CURRENT SERVICE STATE: mikro49;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.23 ms
+[1542326400] CURRENT SERVICE STATE: mikro52;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.62 ms
+[1542326400] CURRENT SERVICE STATE: mikro53;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.33 ms
+[1542326400] CURRENT SERVICE STATE: mikro54;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 7.52 ms
+[1542326400] CURRENT SERVICE STATE: mikro56;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.07 ms
+[1542326400] CURRENT SERVICE STATE: mikro57;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 3.44 ms
+[1542326400] CURRENT SERVICE STATE: mikro58;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.30 ms
+[1542326400] CURRENT SERVICE STATE: mikro59;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.36 ms
+[1542326400] CURRENT SERVICE STATE: mikro60;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.16 ms
+[1542326400] CURRENT SERVICE STATE: mikro61;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.64 ms
+[1542326400] CURRENT SERVICE STATE: mikro63;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 5.08 ms
+[1542326400] CURRENT SERVICE STATE: mikro67;Ping;CRITICAL;HARD;3;CRITICAL - Host Unreachable (192.168.67.200)
+[1542326400] CURRENT SERVICE STATE: mikro68;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.39 ms
+[1542326400] CURRENT SERVICE STATE: mikro69;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 3.65 ms
+[1542326400] CURRENT SERVICE STATE: mikro70;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.34 ms
+[1542326400] CURRENT SERVICE STATE: mikro71;Ping;CRITICAL;HARD;3;CRITICAL - Host Unreachable (192.168.71.200)
+[1542326400] CURRENT SERVICE STATE: mikro72;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 3.97 ms
+[1542326400] CURRENT SERVICE STATE: msk197-k1;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (192.168.46.21)
+[1542326400] CURRENT SERVICE STATE: msk197-k2;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (192.168.46.22)
+[1542326400] CURRENT SERVICE STATE: nev-k1;Ping;CRITICAL;HARD;1;CRITICAL - Plugin timed out
+[1542326400] CURRENT SERVICE STATE: nev-k10;Ping;CRITICAL;HARD;3;CRITICAL - Host Unreachable (172.17.15.32)
+[1542326400] CURRENT SERVICE STATE: nev-k11;Ping;CRITICAL;HARD;1;CRITICAL - Plugin timed out
+[1542326400] CURRENT SERVICE STATE: nev-k2;Ping;CRITICAL;HARD;1;CRITICAL - Plugin timed out
+[1542326400] CURRENT SERVICE STATE: nev-k3;Ping;CRITICAL;HARD;1;CRITICAL - Plugin timed out
+[1542326400] CURRENT SERVICE STATE: nev-k4;Ping;CRITICAL;HARD;1;CRITICAL - Plugin timed out
+[1542326400] CURRENT SERVICE STATE: nev-k5;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (172.17.15.25)
+[1542326400] CURRENT SERVICE STATE: nev-k6;Ping;CRITICAL;HARD;1;CRITICAL - Plugin timed out
+[1542326400] CURRENT SERVICE STATE: nev-k7;Ping;CRITICAL;HARD;1;CRITICAL - Plugin timed out
+[1542326400] CURRENT SERVICE STATE: nev-k8;Ping;CRITICAL;HARD;3;CRITICAL - Host Unreachable (172.17.15.28)
+[1542326400] CURRENT SERVICE STATE: nev-k9;Ping;CRITICAL;HARD;1;CRITICAL - Plugin timed out
+[1542326400] CURRENT SERVICE STATE: nev6-k1;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.14 ms
+[1542326400] CURRENT SERVICE STATE: nev6-k2;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.03 ms
+[1542326400] CURRENT SERVICE STATE: nevsk104-k1;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (192.168.37.21)
+[1542326400] CURRENT SERVICE STATE: nevsk104-k2;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (192.168.37.22)
+[1542326400] CURRENT SERVICE STATE: nevsk104-k3;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (192.168.37.23)
+[1542326400] CURRENT SERVICE STATE: nevsk104-k4;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (192.168.37.24)
+[1542326400] CURRENT SERVICE STATE: nevsky130-k1;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (192.168.49.21)
+[1542326400] CURRENT SERVICE STATE: nevsky130-k2;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (192.168.49.22)
+[1542326400] CURRENT SERVICE STATE: nevsky78-k1;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (192.168.28.21)
+[1542326400] CURRENT SERVICE STATE: nevsky78-k3;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (192.168.28.23)
+[1542326400] CURRENT SERVICE STATE: pion12-k1;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.76 ms
+[1542326400] CURRENT SERVICE STATE: pion12-k2;Ping;CRITICAL;HARD;3;CRITICAL - Host Unreachable (192.168.53.22)
+[1542326400] CURRENT SERVICE STATE: prosv48-k1;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (192.168.67.21)
+[1542326400] CURRENT SERVICE STATE: prosv87-k1;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (192.168.47.21)
+[1542326400] CURRENT SERVICE STATE: prosv87-k2;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (192.168.47.22)
+[1542326400] CURRENT SERVICE STATE: sad103-k1;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 4.28 ms
+[1542326400] CURRENT SERVICE STATE: sad103-k2;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.36 ms
+[1542326400] CURRENT SERVICE STATE: sad103-k3;Ping;CRITICAL;HARD;3;CRITICAL - Host Unreachable (192.168.60.23)
+[1542326400] CURRENT SERVICE STATE: sad29-k1;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (192.168.43.21)
+[1542326400] CURRENT SERVICE STATE: sad29-k2;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (192.168.43.22)
+[1542326400] CURRENT SERVICE STATE: sadov-k1;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.43 ms
+[1542326400] CURRENT SERVICE STATE: sadov-k2;Ping;CRITICAL;HARD;1;CRITICAL - Plugin timed out
+[1542326400] CURRENT SERVICE STATE: sadov-k3;Ping;CRITICAL;HARD;1;CRITICAL - Plugin timed out
+[1542326400] CURRENT SERVICE STATE: sadov-k4;Ping;CRITICAL;HARD;3;CRITICAL - Host Unreachable (172.17.14.30)
+[1542326400] CURRENT SERVICE STATE: sadov-k5;Ping;CRITICAL;HARD;3;CRITICAL - Host Unreachable (172.17.14.27)
+[1542326400] CURRENT SERVICE STATE: stach88-k1;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (192.168.54.21)
+[1542326400] CURRENT SERVICE STATE: suvor42-k1;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (192.168.59.21)
+[1542326400] CURRENT SERVICE STATE: tur-k1;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (192.168.57.21)
+[1542326400] CURRENT SERVICE STATE: turist28-k1;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 4.06 ms
+[1542326400] CURRENT SERVICE STATE: ushinsk-k1;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (192.168.25.21)
+[1542326400] CURRENT SERVICE STATE: varsh-k1;Ping;CRITICAL;HARD;1;CRITICAL - Host Unreachable (192.168.70.21)
+[1542326400] CURRENT SERVICE STATE: zahar-k1;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 5.69 ms
+[1542329859] Auto-save of retention data completed successfully.
+[1542333459] Auto-save of retention data completed successfully.
+[1542337059] Auto-save of retention data completed successfully.
+[1542338526] SERVICE ALERT: nev-k3;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.08 ms
+[1542338638] SERVICE ALERT: nev-k4;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.82 ms
+[1542338787] SERVICE ALERT: nevsky78-k3;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.64 ms
+[1542338828] SERVICE ALERT: nev-k7;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 4.97 ms
+[1542338888] SERVICE ALERT: nevsky78-k1;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.53 ms
+[1542338905] SERVICE ALERT: nev-k6;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.41 ms
+[1542339278] SERVICE ALERT: nev-k9;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.63 ms
+[1542339359] SERVICE ALERT: kamen-k1;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.64 ms
+[1542339446] SERVICE ALERT: msk197-k1;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.75 ms
+[1542339483] SERVICE ALERT: nevsky130-k1;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.41 ms
+[1542339523] SERVICE ALERT: nevsky130-k2;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.30 ms
+[1542339524] SERVICE ALERT: msk197-k2;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.87 ms
+[1542339560] SERVICE ALERT: kamen-k3;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.63 ms
+[1542339941] SERVICE ALERT: nevsk104-k2;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.79 ms
+[1542339985] SERVICE ALERT: nevsk104-k1;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.76 ms
+[1542340020] SERVICE ALERT: kamen-k2;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.90 ms
+[1542340113] SERVICE ALERT: nevsk104-k4;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.91 ms
+[1542340296] SERVICE ALERT: nevsk104-k3;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.88 ms
+[1542340659] Auto-save of retention data completed successfully.
+[1542340669] SERVICE ALERT: nev-k2;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.43 ms
+[1542341411] SERVICE ALERT: sad29-k1;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.74 ms
+[1542341545] SERVICE ALERT: sad29-k2;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.02 ms
+[1542342529] SERVICE ALERT: sadov-k3;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.53 ms
+[1542342562] SERVICE ALERT: sadov-k2;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.37 ms
+[1542342823] SERVICE ALERT: sadov-k1;Ping;CRITICAL;SOFT;1;CRITICAL - Plugin timed out
+[1542342974] SERVICE ALERT: sadov-k1;Ping;CRITICAL;SOFT;2;CRITICAL - Plugin timed out
+[1542343125] SERVICE ALERT: sadov-k1;Ping;CRITICAL;HARD;3;CRITICAL - Plugin timed out
+[1542343196] SERVICE ALERT: eliz-k1;Ping;OK;HARD;1;PING OK - Packet loss = 60%, RTA = 2.29 ms
+[1542343665] SERVICE ALERT: eliz-k2;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.36 ms
+[1542343729] SERVICE ALERT: sadov-k1;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.37 ms
+[1542344181] SERVICE ALERT: 8line-k2;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.39 ms
+[1542344256] SERVICE ALERT: 8line-k1;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.31 ms
+[1542344259] Auto-save of retention data completed successfully.
+[1542344727] SERVICE ALERT: ushinsk-k1;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 4.83 ms
+[1542345259] SERVICE ALERT: gavan-k1;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 10.71 ms
+[1542345592] SERVICE ALERT: bryanc20-k1;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.49 ms
+[1542346028] SERVICE ALERT: engels-k1;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 4.19 ms
+[1542346075] SERVICE ALERT: lunach-k1;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 7.50 ms
+[1542346110] SERVICE ALERT: tur-k1;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 5.00 ms
+[1542346395] SERVICE ALERT: prosv87-k1;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.61 ms
+[1542346593] SERVICE ALERT: metal-k1;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.68 ms
+[1542346737] SERVICE ALERT: engels51-k1;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 5.37 ms
+[1542346969] SERVICE ALERT: prosv87-k2;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.68 ms
+[1542347232] SERVICE ALERT: blago-k1;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.17 ms
+[1542347245] SERVICE ALERT: bkuna-k1;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 31.21 ms
+[1542347317] SERVICE ALERT: varsh-k1;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.39 ms
+[1542347323] SERVICE ALERT: stach88-k1;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.88 ms
+[1542347409] SERVICE ALERT: garkav-k1;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 3.50 ms
+[1542347430] SERVICE ALERT: dek-k2;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.28 ms
+[1542347469] SERVICE ALERT: prosv48-k1;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 6.44 ms
+[1542347485] SERVICE ALERT: aviakonstr-k1;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 4.80 ms
+[1542347514] SERVICE ALERT: suvor42-k1;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.37 ms
+[1542347597] SERVICE ALERT: aviakonstr-k2;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 4.85 ms
+[1542347651] SERVICE ALERT: grivcov-k1;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.73 ms
+[1542347859] Auto-save of retention data completed successfully.
+[1542347863] SERVICE ALERT: lens22-k1;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.72 ms
+[1542348100] SERVICE ALERT: nev-k11;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.11 ms
+[1542348108] SERVICE ALERT: gasheka-k1;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 2.45 ms
+[1542351459] Auto-save of retention data completed successfully.
+[1542353081] SERVICE ALERT: nev-k1;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 1.86 ms
+[1542353423] SERVICE ALERT: mikro72;Ping;CRITICAL;SOFT;1;CRITICAL - Host Unreachable (192.168.72.200)
+[1542353547] SERVICE ALERT: mikro72;Ping;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 3.85 ms
+[1542355059] Auto-save of retention data completed successfully.
+[1542355213] HOST NOTIFICATION: nagiosadmin;garkav-k1;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 3.70 ms
+[1542355213] HOST ALERT: garkav-k1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 3.70 ms
+[1542355215] HOST NOTIFICATION: nagiosadmin;sad29-k1;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 2.70 ms
+[1542355215] HOST ALERT: sad29-k1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.70 ms
+[1542355218] HOST NOTIFICATION: nagiosadmin;mikro71;DOWN;notify-host-by-email;CRITICAL - Host Unreachable (192.168.71.200)
+[1542355231] HOST NOTIFICATION: nagiosadmin;ushinsk-k1;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 4.85 ms
+[1542355231] HOST ALERT: ushinsk-k1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 4.85 ms
+[1542355234] HOST NOTIFICATION: nagiosadmin;sadov-k4;DOWN;notify-host-by-email;CRITICAL - Host Unreachable (172.17.14.30)
+[1542355235] HOST NOTIFICATION: nagiosadmin;dek-k2;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 2.18 ms
+[1542355235] HOST ALERT: dek-k2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.18 ms
+[1542355239] HOST NOTIFICATION: nagiosadmin;grivcov-k1;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 4.99 ms
+[1542355239] HOST ALERT: grivcov-k1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 4.99 ms
+[1542355244] HOST NOTIFICATION: nagiosadmin;mikro67;DOWN;notify-host-by-email;CRITICAL - Host Unreachable (192.168.67.200)
+[1542355245] HOST NOTIFICATION: nagiosadmin;nevsk104-k2;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 1.79 ms
+[1542355245] HOST ALERT: nevsk104-k2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.79 ms
+[1542355252] HOST NOTIFICATION: nagiosadmin;mikro11;DOWN;notify-host-by-email;CRITICAL - Host Unreachable (192.168.11.200)
+[1542355254] HOST NOTIFICATION: nagiosadmin;sad29-k2;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 2.04 ms
+[1542355254] HOST ALERT: sad29-k2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.04 ms
+[1542355262] HOST NOTIFICATION: nagiosadmin;kamen-k1;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 2.77 ms
+[1542355262] HOST ALERT: kamen-k1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.77 ms
+[1542355273] HOST NOTIFICATION: nagiosadmin;prosv48-k1;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 6.56 ms
+[1542355273] HOST ALERT: prosv48-k1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.56 ms
+[1542355275] HOST NOTIFICATION: nagiosadmin;sadov-k5;DOWN;notify-host-by-email;CRITICAL - Host Unreachable (172.17.14.27)
+[1542355283] HOST NOTIFICATION: nagiosadmin;aviakonstr-k1;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 4.53 ms
+[1542355283] HOST ALERT: aviakonstr-k1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 4.53 ms
+[1542355283] HOST NOTIFICATION: nagiosadmin;sad103-k3;DOWN;notify-host-by-email;CRITICAL - Host Unreachable (192.168.60.23)
+[1542355285] HOST NOTIFICATION: nagiosadmin;8line-k2;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 2.44 ms
+[1542355285] HOST ALERT: 8line-k2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.44 ms
+[1542355289] HOST NOTIFICATION: nagiosadmin;nevsk104-k1;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 1.67 ms
+[1542355289] HOST ALERT: nevsk104-k1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.67 ms
+[1542355292] HOST NOTIFICATION: nagiosadmin;nevsky78-k3;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 1.58 ms
+[1542355292] HOST ALERT: nevsky78-k3;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.58 ms
+[1542355297] HOST NOTIFICATION: nagiosadmin;metal-k1;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 8.53 ms
+[1542355297] HOST ALERT: metal-k1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 8.53 ms
+[1542355300] HOST NOTIFICATION: nagiosadmin;nevsk104-k3;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 1.85 ms
+[1542355300] HOST ALERT: nevsk104-k3;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.85 ms
+[1542355300] HOST NOTIFICATION: nagiosadmin;prosv87-k2;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 2.77 ms
+[1542355300] HOST ALERT: prosv87-k2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.77 ms
+[1542355304] HOST NOTIFICATION: nagiosadmin;nev-k11;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 1.46 ms
+[1542355304] HOST ALERT: nev-k11;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.46 ms
+[1542355305] wproc: Core Worker 30: job 17931 (pid=4278) timed out. Killing it
+[1542355305] wproc: CHECK job 17931 from worker Core Worker 30 timed out after 30.01s
+[1542355305] wproc:   host=mikro34; service=(null);
+[1542355305] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1542355305] Warning: Check of host 'mikro34' timed out after 30.01 seconds
+[1542355305] HOST NOTIFICATION: nagiosadmin;mikro34;DOWN;notify-host-by-email;(Host check timed out after 30.01 seconds)
+[1542355305] wproc: Core Worker 30: job 17931 (pid=4278): Dormant child reaped
+[1542355312] HOST NOTIFICATION: nagiosadmin;gasheka-k1;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 2.55 ms
+[1542355312] HOST ALERT: gasheka-k1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.55 ms
+[1542355318] HOST NOTIFICATION: nagiosadmin;suvor42-k1;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 2.44 ms
+[1542355318] HOST ALERT: suvor42-k1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.44 ms
+[1542355324] HOST NOTIFICATION: nagiosadmin;kamen-k2;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 2.74 ms
+[1542355324] HOST ALERT: kamen-k2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.74 ms
+[1542355328] HOST NOTIFICATION: nagiosadmin;nev-k5;DOWN;notify-host-by-email;CRITICAL - Host Unreachable (172.17.15.25)
+[1542355330] HOST NOTIFICATION: nagiosadmin;nev-k3;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 1.66 ms
+[1542355330] HOST ALERT: nev-k3;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.66 ms
+[1542355331] HOST NOTIFICATION: nagiosadmin;pion12-k2;DOWN;notify-host-by-email;CRITICAL - Host Unreachable (192.168.53.22)
+[1542355332] HOST NOTIFICATION: nagiosadmin;nev-k7;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 2.17 ms
+[1542355332] HOST ALERT: nev-k7;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.17 ms
+[1542355332] HOST NOTIFICATION: nagiosadmin;engels-k1;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 3.86 ms
+[1542355332] HOST ALERT: engels-k1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 3.86 ms
+[1542355336] HOST NOTIFICATION: nagiosadmin;blago-k1;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 1.98 ms
+[1542355336] HOST ALERT: blago-k1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.98 ms
+[1542355342] wproc: Core Worker 29: job 17940 (pid=4399) timed out. Killing it
+[1542355342] wproc: CHECK job 17940 from worker Core Worker 29 timed out after 30.01s
+[1542355342] wproc:   host=mikro26; service=(null);
+[1542355342] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1542355342] Warning: Check of host 'mikro26' timed out after 30.01 seconds
+[1542355342] HOST NOTIFICATION: nagiosadmin;mikro26;DOWN;notify-host-by-email;(Host check timed out after 30.01 seconds)
+[1542355343] wproc: Core Worker 29: job 17940 (pid=4399): Dormant child reaped
+[1542355347] HOST NOTIFICATION: nagiosadmin;nev-k9;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 1.47 ms
+[1542355347] HOST ALERT: nev-k9;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.47 ms
+[1542355349] HOST NOTIFICATION: nagiosadmin;bkuna-k1;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 12.56 ms
+[1542355349] HOST ALERT: bkuna-k1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 12.56 ms
+[1542355350] HOST NOTIFICATION: nagiosadmin;msk197-k1;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 6.23 ms
+[1542355350] HOST ALERT: msk197-k1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 6.23 ms
+[1542355360] HOST NOTIFICATION: nagiosadmin;8line-k1;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 2.36 ms
+[1542355360] HOST ALERT: 8line-k1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.36 ms
+[1542355367] HOST NOTIFICATION: nagiosadmin;lens22-k1;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 33.81 ms
+[1542355367] HOST ALERT: lens22-k1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 33.81 ms
+[1542355369] HOST NOTIFICATION: nagiosadmin;eliz-k2;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 2.40 ms
+[1542355369] HOST ALERT: eliz-k2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.40 ms
+[1542355373] HOST NOTIFICATION: nagiosadmin;nev-k2;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 2.33 ms
+[1542355373] HOST ALERT: nev-k2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.33 ms
+[1542355376] HOST NOTIFICATION: nagiosadmin;nev-k10;DOWN;notify-host-by-email;CRITICAL - Host Unreachable (172.17.15.32)
+[1542355379] HOST NOTIFICATION: nagiosadmin;lunach-k1;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 13.13 ms
+[1542355379] HOST ALERT: lunach-k1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 13.13 ms
+[1542355380] HOST NOTIFICATION: nagiosadmin;prosv87-k1;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 2.54 ms
+[1542355380] HOST ALERT: prosv87-k1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.54 ms
+[1542355381] HOST NOTIFICATION: nagiosadmin;nev-k4;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 1.27 ms
+[1542355381] HOST ALERT: nev-k4;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.27 ms
+[1542355382] HOST NOTIFICATION: nagiosadmin;mikro45;DOWN;notify-host-by-email;CRITICAL - Host Unreachable (192.168.45.200)
+[1542355387] HOST NOTIFICATION: nagiosadmin;nevsky130-k1;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 2.41 ms
+[1542355387] HOST ALERT: nevsky130-k1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.41 ms
+[1542355392] HOST NOTIFICATION: nagiosadmin;nevsky78-k1;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 1.60 ms
+[1542355392] HOST ALERT: nevsky78-k1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.60 ms
+[1542355401] HOST NOTIFICATION: nagiosadmin;aviakonstr-k2;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 4.72 ms
+[1542355401] HOST ALERT: aviakonstr-k2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 4.72 ms
+[1542355409] HOST NOTIFICATION: nagiosadmin;nev-k6;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 2.73 ms
+[1542355409] HOST ALERT: nev-k6;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.73 ms
+[1542355410] HOST NOTIFICATION: nagiosadmin;nev-k8;DOWN;notify-host-by-email;CRITICAL - Host Unreachable (172.17.15.28)
+[1542355414] HOST NOTIFICATION: nagiosadmin;tur-k1;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 5.17 ms
+[1542355414] HOST ALERT: tur-k1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.17 ms
+[1542355417] HOST NOTIFICATION: nagiosadmin;nevsk104-k4;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 1.99 ms
+[1542355417] HOST ALERT: nevsk104-k4;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.99 ms
+[1542355421] HOST NOTIFICATION: nagiosadmin;varsh-k1;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 2.43 ms
+[1542355421] HOST ALERT: varsh-k1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.43 ms
+[1542355427] HOST NOTIFICATION: nagiosadmin;stach88-k1;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 10.43 ms
+[1542355427] HOST ALERT: stach88-k1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 10.43 ms
+[1542355427] HOST NOTIFICATION: nagiosadmin;nevsky130-k2;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 2.51 ms
+[1542355427] HOST ALERT: nevsky130-k2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.51 ms
+[1542355428] HOST NOTIFICATION: nagiosadmin;msk197-k2;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 2.88 ms
+[1542355428] HOST ALERT: msk197-k2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.88 ms
+[1542355433] HOST NOTIFICATION: nagiosadmin;sadov-k3;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 1.86 ms
+[1542355433] HOST ALERT: sadov-k3;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.86 ms
+[1542355441] HOST NOTIFICATION: nagiosadmin;engels51-k1;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 5.64 ms
+[1542355441] HOST ALERT: engels51-k1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 5.64 ms
+[1542355456] HOST NOTIFICATION: nagiosadmin;nev-k1;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 1.94 ms
+[1542355456] HOST ALERT: nev-k1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.94 ms
+[1542355463] HOST NOTIFICATION: nagiosadmin;gavan-k1;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 3.20 ms
+[1542355463] HOST ALERT: gavan-k1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 3.20 ms
+[1542355464] HOST NOTIFICATION: nagiosadmin;kamen-k3;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 2.60 ms
+[1542355464] HOST ALERT: kamen-k3;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.60 ms
+[1542355466] HOST NOTIFICATION: nagiosadmin;sadov-k2;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 1.47 ms
+[1542355466] HOST ALERT: sadov-k2;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.47 ms
+[1542355481] wproc: Core Worker 30: job 17970 (pid=4784) timed out. Killing it
+[1542355481] wproc: CHECK job 17970 from worker Core Worker 30 timed out after 30.01s
+[1542355481] wproc:   host=mikro55; service=(null);
+[1542355481] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1542355481] Warning: Check of host 'mikro55' timed out after 30.01 seconds
+[1542355481] HOST NOTIFICATION: nagiosadmin;mikro55;DOWN;notify-host-by-email;(Host check timed out after 30.01 seconds)
+[1542355481] wproc: Core Worker 30: job 17970 (pid=4784): Dormant child reaped
+[1542355497] HOST NOTIFICATION: nagiosadmin;bryanc20-k1;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 2.34 ms
+[1542355497] HOST ALERT: bryanc20-k1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.34 ms
+[1542355499] HOST NOTIFICATION: nagiosadmin;eliz-k1;UP;notify-host-by-email;PING OK - Packet loss = 0%, RTA = 2.27 ms
+[1542355499] HOST ALERT: eliz-k1;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 2.27 ms
+[1542355605] wproc: Core Worker 30: job 17989 (pid=4993) timed out. Killing it
+[1542355605] wproc: CHECK job 17989 from worker Core Worker 30 timed out after 30.01s
+[1542355605] wproc:   host=mikro34; service=(null);
+[1542355605] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1542355605] Warning: Check of host 'mikro34' timed out after 30.01 seconds
+[1542355605] wproc: Core Worker 30: job 17989 (pid=4993): Dormant child reaped
+[1542355642] wproc: Core Worker 28: job 17993 (pid=5041) timed out. Killing it
+[1542355642] wproc: CHECK job 17993 from worker Core Worker 28 timed out after 30.01s
+[1542355642] wproc:   host=mikro26; service=(null);
+[1542355642] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1542355642] Warning: Check of host 'mikro26' timed out after 30.01 seconds
+[1542355643] wproc: Core Worker 28: job 17993 (pid=5041): Dormant child reaped
+[1542355781] wproc: Core Worker 28: job 18014 (pid=5251) timed out. Killing it
+[1542355781] wproc: CHECK job 18014 from worker Core Worker 28 timed out after 30.01s
+[1542355781] wproc:   host=mikro55; service=(null);
+[1542355781] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1542355781] Warning: Check of host 'mikro55' timed out after 30.01 seconds
+[1542355781] wproc: Core Worker 28: job 18014 (pid=5251): Dormant child reaped
+[1542355905] wproc: Core Worker 30: job 18032 (pid=5427) timed out. Killing it
+[1542355905] wproc: CHECK job 18032 from worker Core Worker 30 timed out after 30.01s
+[1542355905] wproc:   host=mikro34; service=(null);
+[1542355905] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1542355905] Warning: Check of host 'mikro34' timed out after 30.01 seconds
+[1542355905] wproc: Core Worker 30: job 18032 (pid=5427): Dormant child reaped
+[1542355942] wproc: Core Worker 28: job 18038 (pid=5491) timed out. Killing it
+[1542355942] wproc: CHECK job 18038 from worker Core Worker 28 timed out after 30.01s
+[1542355942] wproc:   host=mikro26; service=(null);
+[1542355942] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1542355942] Warning: Check of host 'mikro26' timed out after 30.01 seconds
+[1542355943] wproc: Core Worker 28: job 18038 (pid=5491): Dormant child reaped
+[1542356081] wproc: Core Worker 28: job 18059 (pid=5701) timed out. Killing it
+[1542356081] wproc: CHECK job 18059 from worker Core Worker 28 timed out after 30.01s
+[1542356081] wproc:   host=mikro55; service=(null);
+[1542356081] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1542356081] Warning: Check of host 'mikro55' timed out after 30.01 seconds
+[1542356081] wproc: Core Worker 28: job 18059 (pid=5701): Dormant child reaped
+[1542356205] wproc: Core Worker 27: job 18076 (pid=5875) timed out. Killing it
+[1542356205] wproc: CHECK job 18076 from worker Core Worker 27 timed out after 30.01s
+[1542356205] wproc:   host=mikro34; service=(null);
+[1542356205] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1542356205] Warning: Check of host 'mikro34' timed out after 30.01 seconds
+[1542356205] wproc: Core Worker 27: job 18076 (pid=5875): Dormant child reaped
+[1542356242] wproc: Core Worker 29: job 18081 (pid=5923) timed out. Killing it
+[1542356242] wproc: CHECK job 18081 from worker Core Worker 29 timed out after 30.01s
+[1542356242] wproc:   host=mikro26; service=(null);
+[1542356242] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1542356242] Warning: Check of host 'mikro26' timed out after 30.01 seconds
+[1542356243] wproc: Core Worker 29: job 18081 (pid=5923): Dormant child reaped
+[1542356381] wproc: Core Worker 29: job 18102 (pid=6133) timed out. Killing it
+[1542356381] wproc: CHECK job 18102 from worker Core Worker 29 timed out after 30.01s
+[1542356381] wproc:   host=mikro55; service=(null);
+[1542356381] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1542356381] Warning: Check of host 'mikro55' timed out after 30.01 seconds
+[1542356381] wproc: Core Worker 29: job 18102 (pid=6133): Dormant child reaped
+[1542356505] wproc: Core Worker 27: job 18119 (pid=6309) timed out. Killing it
+[1542356505] wproc: CHECK job 18119 from worker Core Worker 27 timed out after 30.01s
+[1542356505] wproc:   host=mikro34; service=(null);
+[1542356505] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1542356505] Warning: Check of host 'mikro34' timed out after 30.01 seconds
+[1542356505] wproc: Core Worker 27: job 18119 (pid=6309): Dormant child reaped
+[1542356542] wproc: Core Worker 29: job 18126 (pid=6373) timed out. Killing it
+[1542356542] wproc: CHECK job 18126 from worker Core Worker 29 timed out after 30.01s
+[1542356542] wproc:   host=mikro26; service=(null);
+[1542356542] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1542356542] Warning: Check of host 'mikro26' timed out after 30.01 seconds
+[1542356543] wproc: Core Worker 29: job 18126 (pid=6373): Dormant child reaped
+[1542356681] wproc: Core Worker 29: job 18147 (pid=6583) timed out. Killing it
+[1542356681] wproc: CHECK job 18147 from worker Core Worker 29 timed out after 30.01s
+[1542356681] wproc:   host=mikro55; service=(null);
+[1542356681] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1542356681] Warning: Check of host 'mikro55' timed out after 30.01 seconds
+[1542356681] wproc: Core Worker 29: job 18147 (pid=6583): Dormant child reaped
+[1542356805] wproc: Core Worker 28: job 18164 (pid=6757) timed out. Killing it
+[1542356805] wproc: CHECK job 18164 from worker Core Worker 28 timed out after 30.01s
+[1542356805] wproc:   host=mikro34; service=(null);
+[1542356805] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1542356805] Warning: Check of host 'mikro34' timed out after 30.01 seconds
+[1542356805] wproc: Core Worker 28: job 18164 (pid=6757): Dormant child reaped
+[1542356842] wproc: Core Worker 30: job 18169 (pid=6805) timed out. Killing it
+[1542356842] wproc: CHECK job 18169 from worker Core Worker 30 timed out after 30.01s
+[1542356842] wproc:   host=mikro26; service=(null);
+[1542356842] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1542356842] Warning: Check of host 'mikro26' timed out after 30.01 seconds
+[1542356843] wproc: Core Worker 30: job 18169 (pid=6805): Dormant child reaped
+[1542356981] wproc: Core Worker 30: job 18190 (pid=7015) timed out. Killing it
+[1542356981] wproc: CHECK job 18190 from worker Core Worker 30 timed out after 30.01s
+[1542356981] wproc:   host=mikro55; service=(null);
+[1542356981] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1542356981] Warning: Check of host 'mikro55' timed out after 30.01 seconds
+[1542356981] wproc: Core Worker 30: job 18190 (pid=7015): Dormant child reaped
+[1542357105] wproc: Core Worker 28: job 18207 (pid=7191) timed out. Killing it
+[1542357105] wproc: CHECK job 18207 from worker Core Worker 28 timed out after 30.01s
+[1542357105] wproc:   host=mikro34; service=(null);
+[1542357105] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1542357105] Warning: Check of host 'mikro34' timed out after 30.01 seconds
+[1542357105] wproc: Core Worker 28: job 18207 (pid=7191): Dormant child reaped
+[1542357142] wproc: Core Worker 30: job 18214 (pid=7255) timed out. Killing it
+[1542357142] wproc: CHECK job 18214 from worker Core Worker 30 timed out after 30.01s
+[1542357142] wproc:   host=mikro26; service=(null);
+[1542357142] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1542357142] Warning: Check of host 'mikro26' timed out after 30.01 seconds
+[1542357143] wproc: Core Worker 30: job 18214 (pid=7255): Dormant child reaped
+[1542357281] wproc: Core Worker 30: job 18235 (pid=7465) timed out. Killing it
+[1542357281] wproc: CHECK job 18235 from worker Core Worker 30 timed out after 30.01s
+[1542357281] wproc:   host=mikro55; service=(null);
+[1542357281] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1542357281] Warning: Check of host 'mikro55' timed out after 30.01 seconds
+[1542357281] wproc: Core Worker 30: job 18235 (pid=7465): Dormant child reaped
+[1542357405] wproc: Core Worker 29: job 18252 (pid=7639) timed out. Killing it
+[1542357405] wproc: CHECK job 18252 from worker Core Worker 29 timed out after 30.01s
+[1542357405] wproc:   host=mikro34; service=(null);
+[1542357405] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1542357405] Warning: Check of host 'mikro34' timed out after 30.01 seconds
+[1542357405] wproc: Core Worker 29: job 18252 (pid=7639): Dormant child reaped
+[1542357442] wproc: Core Worker 27: job 18256 (pid=7687) timed out. Killing it
+[1542357442] wproc: CHECK job 18256 from worker Core Worker 27 timed out after 30.01s
+[1542357442] wproc:   host=mikro26; service=(null);
+[1542357442] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1542357442] Warning: Check of host 'mikro26' timed out after 30.01 seconds
+[1542357443] wproc: Core Worker 27: job 18256 (pid=7687): Dormant child reaped
+[1542357581] wproc: Core Worker 27: job 18277 (pid=7898) timed out. Killing it
+[1542357581] wproc: CHECK job 18277 from worker Core Worker 27 timed out after 30.01s
+[1542357581] wproc:   host=mikro55; service=(null);
+[1542357581] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1542357581] Warning: Check of host 'mikro55' timed out after 30.01 seconds
+[1542357581] wproc: Core Worker 27: job 18277 (pid=7898): Dormant child reaped
+[1542357705] wproc: Core Worker 29: job 18295 (pid=8074) timed out. Killing it
+[1542357705] wproc: CHECK job 18295 from worker Core Worker 29 timed out after 30.01s
+[1542357705] wproc:   host=mikro34; service=(null);
+[1542357705] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1542357705] Warning: Check of host 'mikro34' timed out after 30.01 seconds
+[1542357705] wproc: Core Worker 29: job 18295 (pid=8074): Dormant child reaped
+[1542357742] wproc: Core Worker 27: job 18301 (pid=8138) timed out. Killing it
+[1542357742] wproc: CHECK job 18301 from worker Core Worker 27 timed out after 30.01s
+[1542357742] wproc:   host=mikro26; service=(null);
+[1542357742] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1542357742] Warning: Check of host 'mikro26' timed out after 30.01 seconds
+[1542357743] wproc: Core Worker 27: job 18301 (pid=8138): Dormant child reaped
+[1542357881] wproc: Core Worker 27: job 18322 (pid=8348) timed out. Killing it
+[1542357881] wproc: CHECK job 18322 from worker Core Worker 27 timed out after 30.01s
+[1542357881] wproc:   host=mikro55; service=(null);
+[1542357881] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1542357881] Warning: Check of host 'mikro55' timed out after 30.01 seconds
+[1542357881] wproc: Core Worker 27: job 18322 (pid=8348): Dormant child reaped
+[1542358005] wproc: Core Worker 30: job 18340 (pid=8522) timed out. Killing it
+[1542358005] wproc: CHECK job 18340 from worker Core Worker 30 timed out after 30.02s
+[1542358005] wproc:   host=mikro34; service=(null);
+[1542358005] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1542358005] Warning: Check of host 'mikro34' timed out after 30.02 seconds
+[1542358005] wproc: Core Worker 30: job 18340 (pid=8522): Dormant child reaped
+[1542358042] wproc: Core Worker 28: job 18344 (pid=8570) timed out. Killing it
+[1542358042] wproc: CHECK job 18344 from worker Core Worker 28 timed out after 30.01s
+[1542358042] wproc:   host=mikro26; service=(null);
+[1542358042] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1542358042] Warning: Check of host 'mikro26' timed out after 30.01 seconds
+[1542358043] wproc: Core Worker 28: job 18344 (pid=8570): Dormant child reaped
+[1542358181] wproc: Core Worker 28: job 18365 (pid=8780) timed out. Killing it
+[1542358181] wproc: CHECK job 18365 from worker Core Worker 28 timed out after 30.01s
+[1542358181] wproc:   host=mikro55; service=(null);
+[1542358181] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1542358181] Warning: Check of host 'mikro55' timed out after 30.01 seconds
+[1542358181] wproc: Core Worker 28: job 18365 (pid=8780): Dormant child reaped
+[1542358305] wproc: Core Worker 30: job 18383 (pid=8956) timed out. Killing it
+[1542358305] wproc: CHECK job 18383 from worker Core Worker 30 timed out after 30.01s
+[1542358305] wproc:   host=mikro34; service=(null);
+[1542358305] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1542358305] Warning: Check of host 'mikro34' timed out after 30.01 seconds
+[1542358305] wproc: Core Worker 30: job 18383 (pid=8956): Dormant child reaped
+[1542358342] wproc: Core Worker 28: job 18389 (pid=9020) timed out. Killing it
+[1542358342] wproc: CHECK job 18389 from worker Core Worker 28 timed out after 30.01s
+[1542358342] wproc:   host=mikro26; service=(null);
+[1542358342] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1542358342] Warning: Check of host 'mikro26' timed out after 30.01 seconds
+[1542358343] wproc: Core Worker 28: job 18389 (pid=9020): Dormant child reaped
+[1542358481] wproc: Core Worker 28: job 18410 (pid=9230) timed out. Killing it
+[1542358481] wproc: CHECK job 18410 from worker Core Worker 28 timed out after 30.01s
+[1542358481] wproc:   host=mikro55; service=(null);
+[1542358481] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1542358481] Warning: Check of host 'mikro55' timed out after 30.01 seconds
+[1542358481] wproc: Core Worker 28: job 18410 (pid=9230): Dormant child reaped
+[1542358483] Caught SIGTERM, shutting down...
+[1542358483] Successfully shutdown... (PID=15)
+[1542358498] Nagios 4.4.2 starting... (PID=16)
+[1542358498] Local time is Fri Nov 16 08:54:58 UTC 2018
+[1542358498] LOG VERSION: 2.0
+[1542358498] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1542358498] qh: core query handler registered
+[1542358498] qh: echo service query handler registered
+[1542358498] qh: help for the query handler registered
+[1542358498] wproc: Successfully registered manager as @wproc with query handler
+[1542358498] wproc: Registry request: name=Core Worker 27;pid=27
+[1542358498] wproc: Registry request: name=Core Worker 28;pid=28
+[1542358498] wproc: Registry request: name=Core Worker 29;pid=29
+[1542358498] wproc: Registry request: name=Core Worker 30;pid=30
+[1542358498] Successfully launched command file worker with pid 31
+[1542358605] wproc: Core Worker 28: job 10 (pid=144) timed out. Killing it
+[1542358605] wproc: CHECK job 10 from worker Core Worker 28 timed out after 30.01s
+[1542358605] wproc:   host=mikro34; service=(null);
+[1542358605] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1542358605] Warning: Check of host 'mikro34' timed out after 30.01 seconds
+[1542358605] wproc: Core Worker 28: job 10 (pid=144): Dormant child reaped
+[1542358642] wproc: Core Worker 30: job 14 (pid=192) timed out. Killing it
+[1542358642] wproc: CHECK job 14 from worker Core Worker 30 timed out after 30.01s
+[1542358642] wproc:   host=mikro26; service=(null);
+[1542358642] wproc:   early_timeout=1; exited_ok=0; wait_status=0; error_code=62;
+[1542358642] Warning: Check of host 'mikro26' timed out after 30.01 seconds
+[1542358642] wproc: Core Worker 30: job 14 (pid=192): Dormant child reaped
+[1542358723] Caught SIGTERM, shutting down...
+[1542358723] Successfully shutdown... (PID=16)
